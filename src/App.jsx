@@ -1,5 +1,5 @@
 import React from "react";
-import NavBar from "./Components/NavBar/Navbar";
+import NavBar from "./Components/NavBar/NavBar";
 import Search from "./Components/SearchDiv/Search";
 import Jobs from "./Components/JobDiv/Jobs";
 import Value from "./Components/ValueDiv/Value";
